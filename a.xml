@@ -1,0 +1,26 @@
+<item id="AV-0-268435456-1-0-268435954-PARENT-1-18-86347800" parentID="AV-0-268435456-1-1-18" refID="AV-0-268435456-0-0-268435954-PARENT-1-18-86347800" restricted="0">
+        <dc:title>Neighbours</dc:title>
+        <upnp:writeStatus>NOT_WRITABLE</upnp:writeStatus>
+        <upnp:recordable>0</upnp:recordable>
+        <upnp:channelID type="DIGITAL">2.0</upnp:channelID>
+        <upnp:class name="videoItem">object.item.videoItem</upnp:class>
+        <res duration="0:31:58" protocolInfo="http-get:*:video/vnd.dlna.mpeg-tts:DLNA.ORG_PN=AVC_TS_MP_HD_AAC_LTP_T;DLNA.ORG_OP=10;DLNA.ORG_CI=1;DLNA.ORG_FLAGS=81100000000000000000000000000000"
+             pxn:Chapt\
+erList="http://10.0.0.201:60002/AV/CHP_LIST?CID=AV-0-268435456-1-0-268435954-PARENT-1-18-86347800"
+        pxn:NaviList="http://10.0.0.201:60002/AV/ROOTDB_RPL?CID=AV-0-268435456-1-0-268435954-PARENT-1-18-8634780\
+0" pxn:ResumePoint="0:00:00" pxn:StreamPort="60001" pxn:VgaContentProtocolInfo="http-get:*:video/vnd.dlna.mpeg-tts:DLNA.ORG_PN=AVC_TS_MP_HD_AAC_LTP_T;DLNA.ORG_OP=10;DLNA.ORG_CI=1;DLNA.ORG_FLAGS=811000000\
+00000000000000000000000" pxn:VgaContentUri="http://10.0.0.201:60001/AV-0-268435456-1-0-268435954-PARENT-1-18-86347800_BDY?CI=1&amp;fmt=AVC_TS_MP_HD_AAC_LTP_T&amp;bitrate=3000&amp;resolution=360" pxn:VgaC\
+ontentVideoBitrate="2626" size="689602560"
+        vli:playitemNum="1">http://10.0.0.201:60001/AV-0-268435456-1-0-268435954-PARENT-1-18-86347800_BDY?CI=1&amp;fmt=AVC_TS_MP_HD_AAC_LTP_T&amp;bitrate=3000&amp;resol\
+ution=360</res>
+        <upnp:genre>Movie/Drama</upnp:genre>
+        <upnp:channelName>TVNZ 2</upnp:channelName>
+        <dc:date>2018-12-18T18:29:04</dc:date>
+        <upnp:channelNr>2</upnp:channelNr>
+        <dvb:objectType>DVB_TB</dvb:objectType>
+        <upnp:playbackCount>0</upnp:playbackCount>
+        <pxn:groupTopFlag>0</pxn:groupTopFlag>
+        <pxn:groupID>AV-0-268435456-1-1-18</pxn:groupID>
+        <pxn:bbr_content_id>0x100001F2</pxn:bbr_content_id>
+        <upnp:storageMedium>HDD</upnp:storageMedium>
+</item>
